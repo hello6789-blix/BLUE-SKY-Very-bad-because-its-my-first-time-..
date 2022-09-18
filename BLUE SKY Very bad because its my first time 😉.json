@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "author": "⃝⃝#3731",
+        "version": "1.0.0",
+        "name": "BLUE SKY Very bad because its my first time 😉"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": 558601173,
+        "statusbar": 1356894866,
+        "input_background": -4022574,
+        "blocked_bg": -1439736,
+        "background_secondary": -2056279586,
+        "active_channel": -7151444
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
